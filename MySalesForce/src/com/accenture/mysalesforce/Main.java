@@ -15,5 +15,7 @@ public class Main {
 	private static void displayGreeting() {
 		System.out.println("Hi");
 		System.out.println("Hellow");
+		
+		System.out.println("Testing 1");
 	}
 }
